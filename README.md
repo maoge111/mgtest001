@@ -9,3 +9,6 @@ UUID
 TR_PASS
 
 PROXY_IP（选填）
+
+
+[PROXYIP获取地址1【点击直达】](https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/)
